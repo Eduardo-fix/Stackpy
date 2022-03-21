@@ -1,5 +1,3 @@
-# 2010552 - Eduardo Max dos Reis Silva
-
 #Criação da Pilha
 pilha = [];
 
